@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI Webfont",-apple-system,"Helvetica Neue","Lucida Grande","Roboto","Ebrima","Nirmala UI","Gadugi","Segoe Xbox Symbol","Segoe UI Symbol","Meiryo UI","Khmer UI","Tunga","Lao UI","Raavi","Iskoola Pota","Latha","Leelawadee","Microsoft YaHei UI","Microsoft JhengHei UI","Malgun Gothic","Estrangelo Edessa","Microsoft Himalaya","Microsoft New Tai Lue","Microsoft PhagsPa","Microsoft Tai Le","Microsoft Yi Baiti","Mongolian Baiti","MV Boli","Myanmar Text","Cambria Math";
+    
+}
+.container {
+    background-color:rgb(66, 30, 30);
+    height: 100vh;
+    
+}
+
+#mainContainer {
+    position: absolute;
+    background-color: white;
+    height: 330px;
+    width: 440px;
+    margin-top: 97px;
+    margin-left: 420px;
+    padding: 43px;
+    box-shadow: rgb(236, 236, 236) 0px 0px 13px -3px;
+}
+ 
+ 
+div a:hover{
+    text-decoration: underline;
+    box-shadow: black 5px 5px;
+}
+img{
+    margin-bottom: 10px;
+}
+h1{
+    margin-bottom: 10px;
+    font-weight: lighter;
+    font-size: 30px;
+}
+input{
+    margin-bottom: 15px;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid black;
+    
+}
+p{
+    margin-bottom: 20px;
+
+}
+
+button {
+    width: 110px;
+    font-style: initial;
+    font-size: 20px;
+    height: 33px;
+    background-color: #4a78dc;
+    color: white;
+    margin-left: 200px;
+    margin-top: 40px;
+    border: 0px;
+}
+button:hover{
+    background-color:peru;
+}
